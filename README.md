@@ -1,6 +1,8 @@
 # overdisp_r
 Overdispersion Test - Cameron & Trivedi (1990) in Count Data Multiple Regression Analysis Use overdisp With (In) R Software
 
+https://www.youtube.com/watch?v=WpisdTvrL3Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
